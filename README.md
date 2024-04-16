@@ -11,4 +11,3 @@ Bu proje, HTML ve CSS kullanılarak geliştirilmiş ve Starbucks'ın ana ekranı
 
 ![](Kahvesitegif.gif)
 
-# Kahve-Sitesi
