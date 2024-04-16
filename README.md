@@ -9,5 +9,5 @@ Bu proje, HTML ve CSS kullanılarak geliştirilmiş ve Starbucks'ın ana ekranı
 
 <h2> Ekran Görüntüsü </h2>
 
-![](Kahvesitegif.gif)
-# Kahve-Sitesi
+![](Kahvesite.gif)
+
